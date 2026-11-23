@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hybrid Image to PPTX"
+  short_description: "Editable diagrams with original scientific visuals"
+  default_prompt: "Use $hybrid-image2pptx to reconstruct this slide with native editable structure and preserved source artwork."
